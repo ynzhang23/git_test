@@ -1,0 +1,2 @@
+this is my first git repo
+I hope I can push through the course
