@@ -2,4 +2,6 @@
 This is my first GitHub repo.
 Hello Odin!
 
-New test #1
+First commit test
+
+Second commit test
